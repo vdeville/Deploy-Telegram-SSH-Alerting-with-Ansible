@@ -33,6 +33,6 @@ Launch the provided playbook :
 ## Source
 The source script is available here : https://github.com/stylersnico/ssh-login-alert-telegram
 
-This is based on the work of : https://github.com/MyTheValentinus/ssh-login-alert-telegram
+This is based on the work of : https://github.com/vdeville/ssh-login-alert-telegram
 
 Thanks to him :)
